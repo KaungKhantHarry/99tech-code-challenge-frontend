@@ -1,4 +1,5 @@
 import Problem1 from "@/components/problem1/Problem1";
+import Problem2 from "@/components/problem2/Problem2";
 
 export default function Home() {
   return (
@@ -7,6 +8,7 @@ export default function Home() {
         99Tech Frontend Code Challenge
       </h1>
       <Problem1 />
+      <Problem2 />
     </div>
   );
 }
